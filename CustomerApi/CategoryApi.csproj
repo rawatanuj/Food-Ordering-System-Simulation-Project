@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FoodOrderingSystem.DataAccess\FoodOrderingSystem.DataAccess.csproj" />
+    <ProjectReference Include="..\FoodOrderingSystem.Models\FoodOrderingSystem.Models.csproj" />
+  </ItemGroup>
+
+
+</Project>

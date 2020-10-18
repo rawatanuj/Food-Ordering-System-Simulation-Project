@@ -1,0 +1,12 @@
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\bin\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.deps.json
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\bin\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.dll
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.csprojAssemblyReference.cache
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.AssemblyInfo.cs
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\bin\Debug\netcoreapp3.1\FoodOrderingSystem.Models.dll
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\bin\Debug\netcoreapp3.1\FoodOrderingSystem.Models.pdb
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.csproj.CopyComplete
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\bin\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.pdb
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.dll
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.pdb
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.DataAccess\obj\Debug\netcoreapp3.1\FoodOrderingSystem.DataAccess.csproj.CoreCompileInputs.cache

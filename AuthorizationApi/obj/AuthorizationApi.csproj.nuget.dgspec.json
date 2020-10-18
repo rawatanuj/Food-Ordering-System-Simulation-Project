@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\AuthorizationApi\\AuthorizationApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\AuthorizationApi\\AuthorizationApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\AuthorizationApi\\AuthorizationApi.csproj",
+        "projectName": "AuthorizationApi",
+        "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\AuthorizationApi\\AuthorizationApi.csproj",
+        "packagesPath": "C:\\Users\\Anuj-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\AuthorizationApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuj-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\FoodOrderingSystem.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\FoodOrderingSystem.DataAccess.csproj"
+              },
+              "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\FoodOrderingSystem.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\FoodOrderingSystem.DataAccess.csproj",
+        "projectName": "FoodOrderingSystem.DataAccess",
+        "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\FoodOrderingSystem.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Anuj-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuj-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj",
+        "projectName": "FoodOrderingSystem.Models",
+        "projectPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\FoodOrderingSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\Anuj-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuj-PC\\source\\repos\\Food Ordering System\\FoodOrderingSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anuj-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\bin\Debug\netcoreapp3.1\FoodOrderingSystem.Models.deps.json
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\bin\Debug\netcoreapp3.1\FoodOrderingSystem.Models.dll
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\bin\Debug\netcoreapp3.1\FoodOrderingSystem.Models.pdb
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.csprojAssemblyReference.cache
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.AssemblyInfoInputs.cache
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.AssemblyInfo.cs
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.dll
+C:\Users\Anuj-PC\source\repos\Food Ordering System\FoodOrderingSystem.Models\obj\Debug\netcoreapp3.1\FoodOrderingSystem.Models.pdb
